@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">DAM_UC3_JoseVillanueva</string>
+    <string name="Entrar" />
+    <string name="entrar">Entrar</string>
+    <string name="correo_label">Correo Electronico</string>
+    <string name="Contra_label">Contraseña</string>
+    <string name="correo_input" />
+    <string name="contra_input" />
+    <string name="no_cerrar_sesion">No cerrar sesión</string>
+    <string name="contra_olvidada_label">¿Has olvidado tu contraseña?</string>
+    <string name="title_register_label">Regístrate</string>
+    <string name="title_2_label">Es gratis (Y lo seguirá siendo).</string>
+    <string name="name_label">Nombre:\n</string>
+    <string name="name_input" />
+    <string name="apelli_label">Apellidos:\n</string>
+    <string name="apellido_input" />
+    <string name="correo_label_form">Tu dirección de correo electrónico:\n</string>
+    <string name="correo_e_input" />
+    <string name="contra_label_2">Contraseña nueva:\n</string>
+    <string name="form_button">Regístrate</string>
+    <string name="sex_label">Sexo:\n</string>
+    <string name="nacimiento_label">Fecha de nacimiento:</string>
+    <string name="extra_label">¿Por que tengo que dar esta información?\n</string>
+    <string name="check_masculino">Masculino</string>
+    <string name="Femenino_input">Femenino</string>
+    <string name="extraa_label">Crear una pagina para un famoso, grupo de música o empresa.</string>
+</resources>
